@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LotoGenerator</string>
+    <string name="push_button">Please click the button</string>
+    <string name="generate">Generate </string>
+</resources>
